@@ -1,6 +1,6 @@
 # NHANES Diabetes Analysis
 
-Status: in progress. The analysis is running and the full written report is being finished.
+Status: complete. The analysis is running and the full written report is being finished.
 
 ## Research question
 How are BMI, physical activity, age, and blood pressure associated with diabetes among U.S. adults?
